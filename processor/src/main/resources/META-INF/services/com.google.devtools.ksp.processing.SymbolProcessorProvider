@@ -1,0 +1,3 @@
+com.common.processor.GlobalVariableProvider
+com.common.processor.BindingFragmentProvider
+com.common.processor.DataStoreProvider
